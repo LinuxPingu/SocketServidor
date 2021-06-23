@@ -35,6 +35,8 @@ namespace SocketServidor
 
             Console.WriteLine("Presione cualquier tecla para terminar");
             Console.ReadKey();
+
+
         }
     }
 }
